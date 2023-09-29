@@ -14,6 +14,7 @@ header {
   justify-content: center;
   align-items: center;
 
+/* Background image hero */
   background-image: radial-gradient(rgb(0, 0, 0), rgba(183, 26, 9, 0.302), rgba(91, 91, 91, 0.777)),url(https://picsum.photos/id/79/2000/2000);
   background-repeat: no-repeat;
   background-size: cover;
@@ -30,17 +31,17 @@ h1, p{
   text-align: center;
   text-shadow:3px 3px  black ;
 }
-/* Call To Action */
+/* Hero Call To Action */
 a {
   text-decoration: none;
-  border-radius: .5rem;
-  /* CTA container */
-  width: fit-content;
-  background-color: rgb(255, 255, 255);
-  padding: .5rem 1rem;
   color: rgb(183, 27, 9);
   font-family: 'Merriweather', serif;;
   
+  /* CTA container */
+  border-radius: .5rem;
+  width: fit-content;
+  background-color: rgb(255, 255, 255);
+  padding: .5rem 1rem;
 }
 
 /* CTA Hover */
