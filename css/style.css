@@ -48,12 +48,12 @@ a:hover{
   background-color: black;
   color:  white;
 }
-
+/* H1 size and fonts */
 h1 {
   font-size: 72px;
   font-family: 'Anton', Arial, Helvetica, sans-serif;
 }
-
+/* P font */
 p {
   font-family: 'Merriweather','Times New Roman', Times, serif serif;
 }
